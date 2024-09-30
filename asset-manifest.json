@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.596ec07e.css",
+    "main.js": "/static/js/main.bd532d11.js",
+    "static/js/453.8cae6a24.chunk.js": "/static/js/453.8cae6a24.chunk.js",
+    "static/media/page-title-blog.png": "/static/media/page-title-blog.b091429f362ab27ca305.png",
+    "static/media/icomoon5811.svg?45zxck": "/static/media/icomoon5811.9e80631ac4b53a6afb67.svg",
+    "static/media/image_bg_testimonials.jpg": "/static/media/image_bg_testimonials.6118e4fdd6708bdc3c61.jpg",
+    "static/media/banner-collection-grocery2.jpg": "/static/media/banner-collection-grocery2.6483cbdd043a06194b0c.jpg",
+    "static/media/fashion-slideshow-08.jpg": "/static/media/fashion-slideshow-08.5d1e3329f689c735a7ae.jpg",
+    "static/media/icomoon5811.eot?45zxck": "/static/media/icomoon5811.3cd7d8f814eca1ee891e.eot",
+    "static/media/icomoon5811.woff?45zxck": "/static/media/icomoon5811.084c5a90594cd24f6962.woff",
+    "static/media/icomoon5811.ttf?45zxck": "/static/media/icomoon5811.9c005367888544754fba.ttf",
+    "static/media/banner-collection-grocery.jpg": "/static/media/banner-collection-grocery.9d7a7282ad6d65819adb.jpg",
+    "static/media/vegetable1.jpg": "/static/media/vegetable1.060c6f339fd4af3b72cf.jpg",
+    "static/media/vegetable2.jpg": "/static/media/vegetable2.dc78633567bdcc01970f.jpg",
+    "static/media/logo-blue2.svg": "/static/media/logo-blue2.0de2aa5479dc2afdca9cbaeeb70614cf.svg",
+    "static/media/logo.svg": "/static/media/logo.d24a3b986487fb9134a33caff2483153.svg",
+    "static/media/cursor-close.svg": "/static/media/cursor-close.3ae6da68e0bd70429e06.svg",
+    "index.html": "/index.html",
+    "main.596ec07e.css.map": "/static/css/main.596ec07e.css.map",
+    "main.bd532d11.js.map": "/static/js/main.bd532d11.js.map",
+    "453.8cae6a24.chunk.js.map": "/static/js/453.8cae6a24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.596ec07e.css",
+    "static/js/main.bd532d11.js"
+  ]
+}
