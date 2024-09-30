@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import logo from "./images/logo/logo.svg";
+import logo from "../images/logo/logo.svg";
 
 const Header = () => {
   return (
@@ -50,7 +50,7 @@ const Header = () => {
                     </Link>
                   </li>
                   <li className="menu-item">
-                    <Link href="#" className="item-link">
+                    <Link href="/about-us" className="item-link">
                       About us<i className="icon"></i>
                     </Link>
                   </li>

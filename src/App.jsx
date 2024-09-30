@@ -10,18 +10,15 @@ import "./css/swiper-bundle.min.css";
 import "./fonts/font-icons.css";
 import "./fonts/fonts.css";
 
-import { BrowserRouter as Router } from "react-router-dom";
-import Header from "./Header";
-import Content from "./Content";
-import Footer from "./Footer";
+import Route from "./Routes";
+// import Home from "./pages/Home.jsx";
 
 function App() {
   return (
-    <Router>
-      <Header />
-      <Content />
-      <Footer />
-    </Router>
+    <>
+      <Route />
+      {/* <Home /> */}
+    </>
   );
 }
 
